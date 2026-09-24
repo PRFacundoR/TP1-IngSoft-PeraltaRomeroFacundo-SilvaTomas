@@ -12,4 +12,14 @@ public class Producto
         Precio = precio;
         Categoria = categoria;
     }
+
+    public void actualizarPrecio(double nuevoPrecio )
+    {
+        if(nuevoPrecio < 0)
+        {
+            throw new Exception("El precio no puede ser negativo");
+        }
+
+        Precio = nuevoPrecio;
+    }
 }

@@ -22,6 +22,7 @@ public class Tienda
     // Método para buscar un producto por su nombre
     public Producto BuscarProducto(string nombre)
     {
+        
         foreach (var producto in inventario)
         {
             if (producto.Nombre == nombre)
@@ -29,12 +30,13 @@ public class Tienda
                 return producto; // Retorna el objeto encontrado
             }
         }
-        return null; // Retorna null si no lo encuentra (equivalente a None en Python)
+        throw new Exception("Producto no encontrado"); // Lanza una excepción si no se encuentra
     }
 
     // Método para eliminar un producto por su nombre
     public bool EliminarProducto(string nombre)
     {
+
         foreach (var producto in inventario)
         {
             if (producto.Nombre == nombre)
@@ -43,6 +45,6 @@ public class Tienda
                 return true; // Eliminación exitosa
             }
         }
-        return false; // No se encontró el producto
+        throw new Exception("Producto inexistente"); // Lanza una excepción si no se encuentra
     }
 }

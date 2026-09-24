@@ -1,3 +1,5 @@
+namespace TP1_IngSoft;
+
 public class Producto
 {
     public string Nombre { get; set; }

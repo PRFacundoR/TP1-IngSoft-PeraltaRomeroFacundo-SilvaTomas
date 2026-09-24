@@ -943,19 +943,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Facu\\.nuget\\packages\\": {}
+    "C:\\Users\\tomas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Facu\\Downloads\\Nueva carpeta\\TP1-IngSoft\\TP1-IngSoft.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\OneDrive\\Desktop\\ing-soft\\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\\TP1-IngSoft\\TP1-IngSoft.csproj",
       "projectName": "TP1-IngSoft",
-      "projectPath": "C:\\Users\\Facu\\Downloads\\Nueva carpeta\\TP1-IngSoft\\TP1-IngSoft.csproj",
-      "packagesPath": "C:\\Users\\Facu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Facu\\Downloads\\Nueva carpeta\\TP1-IngSoft\\obj\\",
+      "projectPath": "C:\\Users\\tomas\\OneDrive\\Desktop\\ing-soft\\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\\TP1-IngSoft\\TP1-IngSoft.csproj",
+      "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tomas\\OneDrive\\Desktop\\ing-soft\\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\\TP1-IngSoft\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Facu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\tomas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -1018,7 +1018,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.318/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,3 +1,7 @@
+namespace TP1_IngSoft;
+
+
+
 public class Tienda
 {
     // El inventario es una lista privada de objetos tipo Producto

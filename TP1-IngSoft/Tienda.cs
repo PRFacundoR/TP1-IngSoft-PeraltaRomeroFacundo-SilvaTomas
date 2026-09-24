@@ -45,6 +45,6 @@ public class Tienda
                 return true; // Eliminación exitosa
             }
         }
-        throw new Exception("Producto inexistente"); // Lanza una excepción si no se encuentra
+        throw new ArgumentException("Producto inexistente"); // Lanza una excepción si no se encuentra
     }
 }

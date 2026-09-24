@@ -17,7 +17,7 @@ public class Producto
     {
         if(nuevoPrecio < 0)
         {
-            throw new Exception("El precio no puede ser negativo");
+            throw new ArgumentException("El precio no puede ser negativo");
         }
 
         Precio = nuevoPrecio;

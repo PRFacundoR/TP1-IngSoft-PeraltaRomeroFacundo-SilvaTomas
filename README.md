@@ -1,7 +1,13 @@
 # TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas
 
+# COMANDOS
 
-PARA EJECUTAR LOS TEST
+- PARA SABER LAS PRUEBAS DISPONIBLES.
+
+*** dotnet test --list-tests ***
+
+
+# PARA EJECUTAR LOS TEST
 
 # PASO 1
 
@@ -17,8 +23,6 @@ PARA EJECUTAR UN ARCHIVO ESPECIFICO USAR EL COMANDO
 dotnet test --filter "FullyQualifiedName~namespace.class"
 
 
-
-
 # PASO 2
 
 AQUI EJECUTAMOS LA HERRAMIENTA "reportgenerator" QUE UTILIZA LOS RESULTADOS Y LOS MUESTRA EN LOS ARCHIVOS HTML DE FORMA LIMPIA
@@ -26,3 +30,6 @@ AQUI EJECUTAMOS LA HERRAMIENTA "reportgenerator" QUE UTILIZA LOS RESULTADOS Y LO
 reportgenerator "-reports:TestResults/**/coverage.cobertura.xml" "-targetdir:CoverageReport" "-reporttypes:Html;TextSummary"
 
 
+# RESPUESTAS A PREGUNTAS CONCEPTUALES
+
+Las respuestas a las preguntas conceptuales estan comentandas al final de cada archivo

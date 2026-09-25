@@ -97,3 +97,8 @@ C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaT
 C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\obj\Debug\net9.0\TP1-IngSoft.pdb
 C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\obj\Debug\net9.0\TP1-IngSoft.genruntimeconfig.cache
 C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\obj\Debug\net9.0\ref\TP1-IngSoft.dll
+C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\bin\Debug\net9.0\Castle.Core.dll
+C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\bin\Debug\net9.0\NSubstitute.dll
+C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\bin\Debug\net9.0\System.Diagnostics.EventLog.dll
+C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\tomas\OneDrive\Desktop\ing-soft\TP1-IngSoft-PeraltaRomeroFacundo-SilvaTomas\TP1-IngSoft\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

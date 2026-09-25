@@ -13,7 +13,7 @@ public class Producto
         Categoria = categoria;
     }
 
-    public void actualizarPrecio(double nuevoPrecio )
+    public virtual void actualizarPrecio(double nuevoPrecio )
     {
         if(nuevoPrecio < 0)
         {
